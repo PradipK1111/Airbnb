@@ -1,4 +1,4 @@
-# Airbnb
+# airbnb
 
 In this project, I utilized Tableau to conduct an extensive analysis of Airbnb data, focusing on key aspects such as pricing dynamics, booking patterns, host performance, and revenue insights. My goal was to uncover valuable insights that highlight Airbnb’s market trends and strategic positioning.
 
